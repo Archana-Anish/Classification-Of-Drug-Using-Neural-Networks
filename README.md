@@ -48,28 +48,28 @@ Matplotlib/Seaborn: Data Visualization
 # Contributing
 
 We are happy to accept contributions to this project! Whether you're resolving a problem, updating the code, or creating a new feature, your assistance is greatly valued. Please take the following actions to ensure a smooth contribution process:
-**Fork the repository.**
+**Fork the repository**
 To create your own copy of this repository, click the "Fork" button at the top of the repository page.
-**Clone your fork.**
+**Clone your fork**
 Clone the forked repository on your local system.
-**Create a branch.**
+**Create a branch**
 Create a new branch for your changes. Choose a descriptive name, such as add-visualization or fix-scaling-issue.
-**Make your changes.**
+**Make your changes**
 Update the code or documentation as necessary.
 Ensure that your changes are consistent with the project's structure and code standards.
 Include notes for any sophisticated logic or changes.
-**Test your changes.**
+**Test your changes**
 Run the script to ensure that your updates function as intended.
 If you're introducing new functionality, incorporate or update existing tests.
-**Commit your changes.**
+**Commit your changes**
 Create a clear commit statement that describes what you've done.
-**Push to your Branch.**
+**Push to your Branch**
 Push the branch containing your changes to your forked repository.
-**Open a pull request (PR).**
+**Open a pull request (PR)**
 Go to the original repository and create a pull request for your split branch. Make sure to:
 Provide a compelling title and description for your PR.
 Explain why the modification is necessary and what problem it solves.
-**Review and collaborate.**
+**Review and collaborate**
 The maintainers will review your PR. Be open to comments and prepared to make changes if necessary.
 
 We appreciate you taking the time and effort to improve this project. 
