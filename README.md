@@ -29,11 +29,13 @@ This script will preprocess the data, train the Neural Network model, and return
 Ensures that the dataset is loaded and processed properly.
 Example: Verifying the distinct medication classifications using the code 
 data.Drug.unique() 
+
 **Model Evaluation Tests**
 
 A Confusion Matrix and Classification Report are generated to assess model performance, using the code below:
 print(confusion_matrix(y_test, predictions)
 Print (classification_report(y_test, predictions, target_names=target_names, zero_division=0))
+
 **Coding Style Tests**
 
 Ensure that your code follows Python's PEP 8 style guide. Use tools such as flake8.
