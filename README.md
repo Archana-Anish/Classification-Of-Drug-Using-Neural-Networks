@@ -112,7 +112,7 @@ This project is released under the MIT License. See the LICENSE.md file for more
 
 # Acknowledgments
 
-Thank you to the creators of scikit-learn for their incredible tools that make machine learning accessible.
+Rejoy James, Professor of DATA 1202: Data Analysis Tools
 
 Thank you to everyone who contributes to the Python data science community and makes projects like this possible!
 
